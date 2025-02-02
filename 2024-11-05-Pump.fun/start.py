@@ -1,0 +1,5 @@
+from save_target_tokens import save_target_tokens
+from telegram_alert_all_pumpfun_tokens_with_1m import alert_tokens
+
+save_target_tokens()
+alert_tokens()
